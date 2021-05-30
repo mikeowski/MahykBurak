@@ -14,6 +14,6 @@ Do not forget to view my open source projects below 👇🏻
 <details>
   <summary>More...</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=MahykBurak&show_icons=true&count_private=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahykBurak&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahykBurak&theme=dark">
 </details>
-![Your Repos
+
