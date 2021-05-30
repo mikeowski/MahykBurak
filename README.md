@@ -10,6 +10,7 @@ I love **open source development** and I build things on my GitHub profile (here
 
 - 🤟🏽  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/MahykBurak)
 - 👨🏽‍💻  [More about me  (**My blog**)](http://burakmike.herokuapp.com)
+
 Do not forget to view my open source projects below 👇🏻
 
 
