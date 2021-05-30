@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 This is **Burak Mike**  
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=MahykBurak&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![Profile View Counter](https://komarev.com/ghpvc/?username=MahykBurak)
 
 I'm a passionate **software developer** student at **Akdeniz University**,
 I love **open source development** and I build things on my GitHub profile (here). 
