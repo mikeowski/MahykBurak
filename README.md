@@ -1,9 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="10"/> 
 Hello this is **Burak Mike**  
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MahykBurak)
 
-I'm a passionate **software developer** student at **Akdeniz University**,I love being part of development of web technologies
+I'm a passionate **software developer** student at **Akdeniz University**,I love being part of development of web technologies,
 I love **open source development** and I build things on my GitHub profile (here). 
 
 ### I'm currently learning and growing with JavaScript
