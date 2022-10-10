@@ -1,5 +1,5 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> 
-Hello this is **Burak Mike**  
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> Hello this is **Burak Mike**  
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MahykBurak)
 
 I'm a passionate **software developer** student at **Akdeniz University**,I love being part of development of web technologies,
