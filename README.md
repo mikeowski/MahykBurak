@@ -1,4 +1,4 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="10"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> 
 Hello this is **Burak Mike**  
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MahykBurak)
 
