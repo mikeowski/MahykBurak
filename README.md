@@ -8,10 +8,3 @@ I love **open source development** and I build things on my GitHub profile (here
 - 👨🏽‍💻  [More about me  (**My portfolio**)](https://www.mike4.dev)
 
 Do not forget to view my open source projects below 👇🏻
-
-
-<details>
-  <summary>More...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=MahykBurak&show_icons=true&count_private=true&theme=dark" />
-</details>
-
