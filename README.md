@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and UI designer 
 -----------------------------  
 * 🌍  I'm based in Antalya 
-* 🖥️  See my portfolio at [MyPortfolio](http://mike4.dev) 
+* 🖥️  See my portfolio at [mike4.dev](http://mike4.dev) 
 * ✉️  You can contact me at [hi@mike4.dev](mailto:hi@mike4.dev)
 
 ### Skills  
